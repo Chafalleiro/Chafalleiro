@@ -1,3 +1,3 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Static HTML IDE.
+- 🔭 I’m currently working on a Static Web IDE. Currently I have the editor, project tree and functions tree. Documentation parsing is in process.
 - 🌱 I’m currently learning something.
