@@ -17,31 +17,14 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 
 ### 💎 Criptomonedas
 
-**Ethereum / BSC / Polygon:**  
+**Ethereum / BSC / Polygon:**
 [![Static Badge](https://img.shields.io/badge/chafalleiro.uni.eth-Donation?style=for-the-badge&logo=polygon)](https://app.uniswap.org/portfolio/0x62f830706b0Dd6B6753e27272A3A21ab8f4a328e)
-
-<a href="http://example.com/" target="_blank">example</a>
-
-`0xTuDirecciónEthereum`
-![Static Badge]([https://img.shields.io/badge/Polygon?style=for-the-badge&logo=polygon]
-(https://img.shields.io/badge/polygon-3C3C3D?style=flat-square&logo=polygon&logoColor=white))
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Polygon)
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Ethereum)
-
-
-
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xTuDirecciónEthereum)
-
-**Bitcoin:**  
-`1TuDirecciónBitcoin`
-
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat-square&logo=bitcoin&logoColor=white)](https://blockchair.com/bitcoin/address/1TuDirecciónBitcoin)
 
 ### ⭐ GitHub Sponsors
 
 Si prefieres un apoyo mensual, puedes patrocinarme a través de GitHub Sponsors:
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tuusuario)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Chafalleiro)
 
 ---
 
