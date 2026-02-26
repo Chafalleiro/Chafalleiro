@@ -22,10 +22,4 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 
 ### ⭐ GitHub Sponsors
 
-Si prefieres un apoyo mensual, puedes patrocinarme a través de GitHub Sponsors:
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Chafalleiro)
-
----
-
 Cada granito de arena cuenta. ¡Gracias por tu apoyo! 💙
