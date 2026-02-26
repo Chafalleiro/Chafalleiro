@@ -18,7 +18,7 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 ### 💎 Criptomonedas
 
 **Ethereum / BSC / Polygon:**  
-![Static Badge](https://img.shields.io/badge/Polygon-Donation?style=for-the-badge)`1TuDirecciónBitcoin`
+[![Static Badge](https://img.shields.io/badge/Polygon-Donation?style=for-the-badge)(chafalleiro.uni.eth)]
 
 `0xTuDirecciónEthereum`
 ![Static Badge]([https://img.shields.io/badge/Polygon?style=for-the-badge&logo=polygon]
