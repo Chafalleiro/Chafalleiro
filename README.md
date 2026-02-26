@@ -18,7 +18,9 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 ### 💎 Criptomonedas
 
 **Ethereum / BSC / Polygon:**  
-[![Static Badge](https://img.shields.io/badge/chafalleiro.uni.eth - Donation?style=for-the-badge&logo=polygon)](https://app.uniswap.org/portfolio/0x62f830706b0Dd6B6753e27272A3A21ab8f4a328e)
+[![Static Badge](https://img.shields.io/badge/chafalleiro.uni.eth-Donation?style=for-the-badge&logo=polygon)](https://app.uniswap.org/portfolio/0x62f830706b0Dd6B6753e27272A3A21ab8f4a328e)
+
+<a href="http://example.com/" target="_blank">example</a>
 
 `0xTuDirecciónEthereum`
 ![Static Badge]([https://img.shields.io/badge/Polygon?style=for-the-badge&logo=polygon]
