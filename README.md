@@ -19,6 +19,7 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 
 **Ethereum / BSC / Polygon:**  
 `0xTuDirecciónEthereum`
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=polygon)
 
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xTuDirecciónEthereum)
 
