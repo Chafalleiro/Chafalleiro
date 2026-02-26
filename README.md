@@ -18,6 +18,8 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 ### 💎 Criptomonedas
 
 **Ethereum / BSC / Polygon:**  
+![Static Badge](https://img.shields.io/badge/Polygon-Donation?style=for-the-badge)
+
 `0xTuDirecciónEthereum`
 ![Static Badge]([https://img.shields.io/badge/Polygon?style=for-the-badge&logo=polygon]
 (https://img.shields.io/badge/polygon-3C3C3D?style=flat-square&logo=polygon&logoColor=white))
