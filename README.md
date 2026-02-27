@@ -13,7 +13,7 @@ Si este proyecto te ha sido útil, considera apoyar su desarrollo continuo. Cada
 ### ☕ Café virtual
 
 [![Ko-fi](https://img.shields.io/badge/Invítame_a_un_café-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/chafalleiro)
-[![Ko-fi](https://img.shields.io/badge/Patrocionio-aa5E5B?style=for-the-badge&logo=patreon&logoColor=white)]([https://ko-fi.com/chafalleiro](https://patreon.com/u25697686?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink))
+[![Ko-fi](https://img.shields.io/badge/Patrocionio-aa5E5B?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/u25697686?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 [![PayPal](https://img.shields.io/badge/Donar_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=JQKD5VZ2FCYH2)
 
 ### 💎 Criptomonedas
